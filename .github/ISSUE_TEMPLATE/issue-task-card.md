@@ -2,7 +2,7 @@
 name: Issue Task Card
 about: Issue Task Card
 title: ''
-labels: SR
+labels: ''
 assignees: ''
 
 ---
