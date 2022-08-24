@@ -6,7 +6,7 @@ import styled from 'styled-components';
 
 const ButtonWrapper = styled.div`
   margin: 1rem;
-  padding: 3rem;
+  padding: 4rem;
 `;
 
 const ChangeValueButton = styled.button`
